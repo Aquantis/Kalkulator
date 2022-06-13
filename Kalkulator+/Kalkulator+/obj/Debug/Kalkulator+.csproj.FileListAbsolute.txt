@@ -1,0 +1,11 @@
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\bin\Debug\Kalkulator+.exe.config
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\bin\Debug\Kalkulator+.exe
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\bin\Debug\Kalkulator+.pdb
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator+.csproj.AssemblyReference.cache
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator+.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator_.Form1.resources
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator_.Properties.Resources.resources
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator+.csproj.GenerateResource.cache
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator+.csproj.CoreCompileInputs.cache
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator+.exe
+C:\Users\ANTONI\source\repos\Kalkulator+\Kalkulator+\obj\Debug\Kalkulator+.pdb
